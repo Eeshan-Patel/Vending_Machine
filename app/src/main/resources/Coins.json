@@ -1,0 +1,42 @@
+[
+  {
+    "dollar": 50.0,
+    "amount": 10
+  },
+  {
+    "dollar": 20.0,
+    "amount": 12
+  },
+  {
+    "dollar": 10.0,
+    "amount": 9
+  },
+  {
+    "dollar": 5.0,
+    "amount": 8
+  },
+  {
+    "dollar": 2.0,
+    "amount": 10
+  },
+  {
+    "dollar": 1.0,
+    "amount": 21
+  },
+  {
+    "dollar": 0.5,
+    "amount": 10
+  },
+  {
+    "dollar": 0.2,
+    "amount": 10
+  },
+  {
+    "dollar": 0.1,
+    "amount": 10
+  },
+  {
+    "dollar": 0.05,
+    "amount": 10
+  }
+]

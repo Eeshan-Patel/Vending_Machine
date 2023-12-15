@@ -1,0 +1,337 @@
+
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 7         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 7         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 7         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 7         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 7         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 7         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 7         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 5         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 5         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 5         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 5         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 5         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 5         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 7         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 7         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 7         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 7         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 7         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 7         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 7         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        
+1. Name: Smith           Price: 1.00       Quantity: 13        
+2. Name: Pringles        Price: 1.00       Quantity: 15        
+3. Name: Kettle          Price: 1.00       Quantity: 15        
+4. Name: Thins           Price: 1.00       Quantity: 15        
+1. Name: Mentos          Price: 1.00       Quantity: 14        
+2. Name: Sour Patch      Price: 1.00       Quantity: 15        
+3. Name: Skittles        Price: 1.00       Quantity: 15        
+1. Name: Mineral Water   Price: 1.00       Quantity: 0         
+2. Name: Sprite          Price: 1.00       Quantity: 7         
+3. Name: Coca cola       Price: 1.00       Quantity: 13        
+4. Name: Pepsi           Price: 1.00       Quantity: 15        
+5. Name: Orange Juice    Price: 1.00       Quantity: 0         
+1. Name: Mars            Price: 1.00       Quantity: 0         
+2. Name: M&M             Price: 1.00       Quantity: 13        
+3. Name: Bounty          Price: 1.00       Quantity: 15        
+4. Name: Snickers        Price: 1.00       Quantity: 15        

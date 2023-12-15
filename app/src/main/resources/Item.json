@@ -1,0 +1,122 @@
+{
+  "Chips": [
+    {
+      "name": "Smith",
+      "price": 1.0,
+      "code": 21,
+      "quantity": 13,
+      "sold": 3
+    },
+    {
+      "name": "Pringles",
+      "price": 1.0,
+      "code": 22,
+      "quantity": 15,
+      "sold": 0
+    },
+    {
+      "name": "Kettle",
+      "price": 1.0,
+      "code": 23,
+      "quantity": 15,
+      "sold": 1
+    },
+    {
+      "name": "Thins",
+      "price": 1.0,
+      "code": 24,
+      "quantity": 15,
+      "sold": 1
+    }
+  ],
+  "Candies": [
+    {
+      "name": "Mentos",
+      "price": 1.0,
+      "code": 31,
+      "quantity": 14,
+      "sold": 1
+    },
+    {
+      "name": "Sour Patch",
+      "price": 1.0,
+      "code": 32,
+      "quantity": 15,
+      "sold": 0
+    },
+    {
+      "name": "Skittles",
+      "price": 1.0,
+      "code": 33,
+      "quantity": 15,
+      "sold": 0
+    }
+  ],
+  "Drink": [
+    {
+      "name": "Mineral Water",
+      "price": 1.0,
+      "code": 1,
+      "quantity": 0,
+      "sold": 15
+    },
+    {
+      "name": "Sprite",
+      "price": 1.0,
+      "code": 2,
+      "quantity": 7,
+      "sold": 8
+    },
+    {
+      "name": "Coca cola",
+      "price": 1.0,
+      "code": 3,
+      "quantity": 13,
+      "sold": 2
+    },
+    {
+      "name": "Pepsi",
+      "price": 1.0,
+      "code": 4,
+      "quantity": 15,
+      "sold": 0
+    },
+    {
+      "name": "Orange Juice",
+      "price": 1.0,
+      "code": 5,
+      "quantity": 0,
+      "sold": 15
+    }
+  ],
+  "Chocolates": [
+    {
+      "name": "Mars",
+      "price": 1.0,
+      "code": 11,
+      "quantity": 0,
+      "sold": 0
+    },
+    {
+      "name": "M\u0026M",
+      "price": 1.0,
+      "code": 12,
+      "quantity": 13,
+      "sold": 2
+    },
+    {
+      "name": "Bounty",
+      "price": 1.0,
+      "code": 13,
+      "quantity": 15,
+      "sold": 0
+    },
+    {
+      "name": "Snickers",
+      "price": 1.0,
+      "code": 14,
+      "quantity": 15,
+      "sold": 0
+    }
+  ]
+}

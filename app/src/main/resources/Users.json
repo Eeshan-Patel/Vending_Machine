@@ -1,0 +1,22 @@
+[
+  {
+    "userName": "User",
+    "passWord": "user",
+    "popItems": [
+      "Mentos",
+      "Mineral Water",
+      "Mars",
+      "Sprite",
+      "M\u0026M"
+    ],
+    "cardNumber": "60146",
+    "popPointer": 1
+  },
+  {
+    "userName": "abc123",
+    "passWord": "abc123",
+    "popItems": [],
+    "cardNumber": "",
+    "popPointer": 0
+  }
+]

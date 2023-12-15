@@ -1,0 +1,100 @@
+
+Item Code: 21    Name: Smith           Sold: 3    
+Item Code: 23    Name: Kettle          Sold: 1    
+Item Code: 24    Name: Thins           Sold: 1    
+Item Code: 31    Name: Mentos          Sold: 1    
+Item Code: 1     Name: Mineral Water   Sold: 15   
+Item Code: 2     Name: Sprite          Sold: 6    
+Item Code: 3     Name: Coca cola       Sold: 2    
+Item Code: 5     Name: Orange Juice    Sold: 15   
+Item Code: 12    Name: M&M             Sold: 2    
+Item Code: 21    Name: Smith           Sold: 3    
+Item Code: 23    Name: Kettle          Sold: 1    
+Item Code: 24    Name: Thins           Sold: 1    
+Item Code: 31    Name: Mentos          Sold: 1    
+Item Code: 1     Name: Mineral Water   Sold: 15   
+Item Code: 2     Name: Sprite          Sold: 6    
+Item Code: 3     Name: Coca cola       Sold: 2    
+Item Code: 5     Name: Orange Juice    Sold: 15   
+Item Code: 12    Name: M&M             Sold: 2    
+Item Code: 21    Name: Smith           Sold: 3    
+Item Code: 23    Name: Kettle          Sold: 1    
+Item Code: 24    Name: Thins           Sold: 1    
+Item Code: 31    Name: Mentos          Sold: 1    
+Item Code: 1     Name: Mineral Water   Sold: 15   
+Item Code: 2     Name: Sprite          Sold: 6    
+Item Code: 3     Name: Coca cola       Sold: 2    
+Item Code: 5     Name: Orange Juice    Sold: 15   
+Item Code: 12    Name: M&M             Sold: 2    
+Item Code: 21    Name: Smith           Sold: 3    
+Item Code: 23    Name: Kettle          Sold: 1    
+Item Code: 24    Name: Thins           Sold: 1    
+Item Code: 31    Name: Mentos          Sold: 1    
+Item Code: 1     Name: Mineral Water   Sold: 15   
+Item Code: 2     Name: Sprite          Sold: 6    
+Item Code: 3     Name: Coca cola       Sold: 2    
+Item Code: 5     Name: Orange Juice    Sold: 15   
+Item Code: 12    Name: M&M             Sold: 2    
+Item Code: 21    Name: Smith           Sold: 3    
+Item Code: 23    Name: Kettle          Sold: 1    
+Item Code: 24    Name: Thins           Sold: 1    
+Item Code: 31    Name: Mentos          Sold: 1    
+Item Code: 1     Name: Mineral Water   Sold: 15   
+Item Code: 2     Name: Sprite          Sold: 8    
+Item Code: 3     Name: Coca cola       Sold: 2    
+Item Code: 5     Name: Orange Juice    Sold: 15   
+Item Code: 12    Name: M&M             Sold: 2    
+Item Code: 21    Name: Smith           Sold: 3    
+Item Code: 23    Name: Kettle          Sold: 1    
+Item Code: 24    Name: Thins           Sold: 1    
+Item Code: 31    Name: Mentos          Sold: 1    
+Item Code: 1     Name: Mineral Water   Sold: 15   
+Item Code: 2     Name: Sprite          Sold: 8    
+Item Code: 3     Name: Coca cola       Sold: 2    
+Item Code: 5     Name: Orange Juice    Sold: 15   
+Item Code: 12    Name: M&M             Sold: 2    
+Item Code: 21    Name: Smith           Sold: 3    
+Item Code: 23    Name: Kettle          Sold: 1    
+Item Code: 24    Name: Thins           Sold: 1    
+Item Code: 31    Name: Mentos          Sold: 1    
+Item Code: 1     Name: Mineral Water   Sold: 15   
+Item Code: 2     Name: Sprite          Sold: 8    
+Item Code: 3     Name: Coca cola       Sold: 2    
+Item Code: 5     Name: Orange Juice    Sold: 15   
+Item Code: 12    Name: M&M             Sold: 2    
+Item Code: 21    Name: Smith           Sold: 3    
+Item Code: 23    Name: Kettle          Sold: 1    
+Item Code: 24    Name: Thins           Sold: 1    
+Item Code: 31    Name: Mentos          Sold: 1    
+Item Code: 1     Name: Mineral Water   Sold: 15   
+Item Code: 2     Name: Sprite          Sold: 8    
+Item Code: 3     Name: Coca cola       Sold: 2    
+Item Code: 5     Name: Orange Juice    Sold: 15   
+Item Code: 12    Name: M&M             Sold: 2    
+Item Code: 21    Name: Smith           Sold: 3    
+Item Code: 23    Name: Kettle          Sold: 1    
+Item Code: 24    Name: Thins           Sold: 1    
+Item Code: 31    Name: Mentos          Sold: 1    
+Item Code: 1     Name: Mineral Water   Sold: 15   
+Item Code: 2     Name: Sprite          Sold: 8    
+Item Code: 3     Name: Coca cola       Sold: 2    
+Item Code: 5     Name: Orange Juice    Sold: 15   
+Item Code: 12    Name: M&M             Sold: 2    
+Item Code: 21    Name: Smith           Sold: 3    
+Item Code: 23    Name: Kettle          Sold: 1    
+Item Code: 24    Name: Thins           Sold: 1    
+Item Code: 31    Name: Mentos          Sold: 1    
+Item Code: 1     Name: Mineral Water   Sold: 15   
+Item Code: 2     Name: Sprite          Sold: 8    
+Item Code: 3     Name: Coca cola       Sold: 2    
+Item Code: 5     Name: Orange Juice    Sold: 15   
+Item Code: 12    Name: M&M             Sold: 2    
+Item Code: 21    Name: Smith           Sold: 3    
+Item Code: 23    Name: Kettle          Sold: 1    
+Item Code: 24    Name: Thins           Sold: 1    
+Item Code: 31    Name: Mentos          Sold: 1    
+Item Code: 1     Name: Mineral Water   Sold: 15   
+Item Code: 2     Name: Sprite          Sold: 8    
+Item Code: 3     Name: Coca cola       Sold: 2    
+Item Code: 5     Name: Orange Juice    Sold: 15   
+Item Code: 12    Name: M&M             Sold: 2    

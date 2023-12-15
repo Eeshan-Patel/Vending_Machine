@@ -1,0 +1,17 @@
+[
+  {
+    "role": "admin",
+    "name": "Admin",
+    "password": "owner"
+  },
+  {
+    "role": "cashier",
+    "name": "Cashier",
+    "password": "cashier"
+  },
+  {
+    "role": "seller",
+    "name": "Seller",
+    "password": "seller"
+  }
+]
