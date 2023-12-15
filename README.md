@@ -1,7 +1,6 @@
 # Vending Machine Software Project: Assignment 2
 ### University of Sydney - Agile Software Development Group Project
 
-#### Welcome Message from Eeshan Patel (Product Owner)
 Hello! I'm Eeshan Patel, the Product Owner of this dynamic Vending Machine Software Project. In this role, I steered our team's direction, ensuring alignment with our project goals. I meticulously monitored our progress using Burndown charts and also contributed to the coding aspect, helping in the development of key functionalities. Additionally, I took on the responsibility of unit testing and documenting the application development for all our sprints.
 
 #### Project Overview
@@ -30,7 +29,4 @@ As a group of four students at the University of Sydney, we embarked on this pro
 - My involvement extended to unit testing, ensuring the robustness and reliability of our application.
 - I was also responsible for creating comprehensive documentation that captured our development journey.
 
-#### Feedback and Contributions
-We encourage feedback and contributions. Feel free to fork the repository, make your enhancements, and propose changes through pull requests.
 
-We appreciate your interest in our project!
